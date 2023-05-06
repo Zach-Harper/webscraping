@@ -11,4 +11,4 @@ api_key_secret = ''
 bearer_token = ''
 
 accountSID = 'ACda10a074a862623e15486d0c3de74c1b'
-auth_token = 'c7197645ef0a867e1327e78313bc50b6'
+auth_token = '5ccaeb04c7a261c75f0fc879d9c9eaed'
